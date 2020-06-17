@@ -21,7 +21,7 @@ export const heroData = {
 export const aboutData = {
   img: 'portrait.jpg',
   paragraphOne:
-    'I am a Computer Science Graduate student at California State University, Long Beach. Previously I have worked wit Persistent as Software Engineer Intern and with Techbuzz solutions as Software as Software Engineer Intern.',
+    'I am a Computer Science Graduate student at California State University, Fullerton. Previously I have worked wit Persistent as Software Engineer Intern and with Techbuzz solutions as Software as Software Engineer Intern.',
   paragraphTwo:
     'Having experience in various domains such as Web Application Development, Software Development, Pattern Recognition and Machine Learning. I have good understanding of Javascript frameworks such as React.js, Node.js and database systems such as MongoDB and MySQL.',
   paragraphThree:
