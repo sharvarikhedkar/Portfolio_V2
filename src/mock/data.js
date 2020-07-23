@@ -46,8 +46,8 @@ export const projectsData = [
     title: 'Weather App',
     info:'A simple weather web application using HTML, CSS, and React.js',
     info2: '',
-    url: '',
-    repo: 'https://github.com/sharvarikhedkar/Weather_Web_App', // if no repo, the button will not show up
+    url: 'https://sharvarikhedkar.github.io/React_Weather_Application/',
+    repo: 'https://github.com/sharvarikhedkar/React_Weather_Application', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),
