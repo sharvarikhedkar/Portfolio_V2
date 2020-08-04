@@ -37,8 +37,8 @@ export const projectsData = [
     title: 'Smart Brain',
     info:'A full stack web application with features such face detection from image URL provided by user.',
     info2: 'Work in Progress!!',
-    url: 'https://sharvarikhedkar.github.io/SmartBrain/',
-    repo: 'https://github.com/sharvarikhedkar/SmartBrain', // if no repo, the button will not show up
+    url: 'https://smartbrain-12.herokuapp.com/',
+    repo: 'https://github.com/sharvarikhedkar/SmartBrain-api', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),
